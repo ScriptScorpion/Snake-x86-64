@@ -10,7 +10,7 @@ section .rodata
   fieldsize   equ fieldwidth * fieldheight
 
 
-  snakesymbol db 27, '[97m', ' *', 0
+  snakesymbol db 27, '[97m', ' ▅', 0
   applesymbol db 27, '[31m', ' @', 0
   clearsymbol db '  ', 0
 
